@@ -1,0 +1,67 @@
+<?php
+
+
+return [
+    'Age' => 'Age',
+    'Category' => 'Category',
+    'Capacity' => 'Capacity',
+    'Duration' => 'Duration',
+    'srPlayer' => 'SR. / Player',
+    'Victims' => 'Victims',
+    'room' => 'ROOM',
+    'Mins' => 'Min.',
+
+    'Title' => 'The Escape Hotel',
+    'Home' => 'Home',
+    'Rooms' => 'Rooms',
+    'Rules' => 'Rules & FAQ',
+    'Reservations' => 'Reservations',
+    'Our Guests' => 'Our Guests',
+    'LocationContact' => 'Location & Contact',
+    'Language' => 'اللغة العربية',
+    'NextlangCode' => 'ar',
+
+
+    'Reservation details' => 'Reservation details',
+    'Date' => 'Date',
+    'Time' => 'Time',
+    'Number of players' => 'Number of players',
+    'Enter contact details' => 'Enter contact details',
+    'Name' => 'Name',
+    'Email' => 'Email',
+    'Phone' => 'Phone',
+    'Price' => 'Price',
+    'Total price' => 'Total price',
+    'Choose payment option' => 'Choose payment option',
+    'MADA' => 'MADA',
+    'Cash' => 'Pay at the Hotel',
+    'SAR' => 'SAR',
+    'mapLink' => 'click here for directions.',
+    'Note' => '* Please note that payment must be made in full <br>before the time of the event to avoid cancellation. ',
+    'Available' => 'Available',
+
+    'liveperformanceroom' => 'Live Performance Room',
+
+
+    'Prices' => 'Prices',
+    'Weekdays' => 'Weekdays',
+    'Weekends' => 'Weekends',
+    'Set your booking details below' => 'Set your booking details below',
+    'Select Number of Players' => 'Select Number of Players',
+    'Select the Date' => 'Select the Date',
+    'Select the time slot on' => 'Select the time slot on',
+    '* All games are private, only your team is allowed in the room, no strangers.' => '* All games are private, only your team is allowed in the room, no strangers.',
+    'See Our Other Rooms' => 'See Our Other Rooms',
+    'Select the room' => 'Select the room',
+    'Select room first' => 'Select room first',
+    'dear' => 'Dear',
+    'not found guests' => 'There are no photos to display',
+    'bookedMessage' => 'Your booking have been successfully sent, please pay to confirm your booking. Thank You',
+    'bookApproved' => 'Your booking has been successfully approved, we hope you have a good time. Thank you',
+    'bookCanceled' => 'Your booking has been successfully canceled, Thank you',
+    'confirmed' => 'confirmed',
+    'canceled' => 'canceled',
+    'no slots for today' => 'Sorry, no available reservation for today',
+    'attention' => 'Attention',
+
+];
